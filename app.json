@@ -1,0 +1,9 @@
+{
+  "name": "CloudXcel",
+  "description": "",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  }
+}
